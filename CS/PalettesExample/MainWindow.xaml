@@ -31,6 +31,6 @@
                 </dxr:RibbonPage>
             </dxr:RibbonDefaultPageCategory>
         </dxr:RibbonControl>
-        <Button Width="200" Height="100" Content="Create a Custom Palette" Click="Button_Click" Grid.Column="1" Grid.Row="2"/>
+        <Button Width="200" Height="100" Content="Create a Custom Palette" Click="Button_Click" Grid.Column="1" Grid.Row="2" />
     </Grid>
 </dx:ThemedWindow>
